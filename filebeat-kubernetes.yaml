@@ -49,9 +49,9 @@ data:
       - add_docker_metadata:
 
     #cloud.id: "Observability:dXMtY2VudHJhbDEuZ2NwLmZvdW5kaXQubm8kMjVjZDk2OWY3MWVmNDNjODg4NGE5NWU0ZmFmZTcxM2MkZWU3ZGE5OTZhOTc2NGFhNWFhMzc1NDQxMmUzMTljOGM="
-    #cloud.auth: "elastic:BbxcbDY2hR05Ek5Z3j8hi7qE"
+    #cloud.auth: "elastic:XXXXXXXXXXXXXXXXXXXXXXXX"
     cloud.id: "654:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvJDdjNGFhOGNjMjlkZDQzMTU4YTc5NDg4ODU3NDk3YmViJGU3NjU2NTc0MDhhNTRhOTA5Y2FhMmRiM2Y5NjJiNWY5"
-    cloud.auth: "elastic:PLcY8lBaDxGFUUd38MT4UNkK"
+    cloud.auth: "elastic:XXXXXXXXXXXXXXXXXXXXXXXX"
 
     
 ---
